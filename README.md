@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Evgeny
 
-<!--
-**jeckside/jeckside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning software engineering through practical projects: trading-system
+research, data analysis, automation scripts and small diagnostic tools.
 
-Here are some ideas to get you started:
+Most of my work started from real problems I had to solve:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- checking whether a trading signal behaves the same in replay and in live-like
+  conditions;
+- reading logs and finding where a delay or wrong action actually happened;
+- automating document templates instead of filling the same fields by hand;
+- collecting Windows startup diagnostics before changing anything on the
+  system.
+
+## What I work with
+
+Python, PowerShell, SQL/SQLite, Git, basic ML, data analysis, testing,
+automation, Windows diagnostics.
+
+I am especially interested in backend/data tasks where it matters that the
+result is reproducible and easy to verify.
+
+## Projects
+
+- `market-replay-lab` - small candle-by-candle replay lab for trading-signal
+  research.
+- `docx-template-filler` - fills Word templates from a JSON mapping.
+- `windows-startup-audit` - read-only startup diagnostics for Windows.
+
+I keep private keys, logs, account data and full private datasets out of public
+repositories.
