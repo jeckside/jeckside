@@ -1,33 +1,25 @@
-# Привет, я Евгений
+### Hi there, I'm Evgeny
 
-Учусь программированию и постепенно собираю небольшие проекты на Python,
-PowerShell и SQL.
+I'm learning software development through small practical projects. I like
+working with data, automation, logs, and projects where it is important to check
+that the result actually makes sense.
 
-Мне нравится разбираться в практических задачах: почему код работает не так,
-как ожидалось, где появилась ошибка, что видно по логам и как это можно
-проверить нормальными тестами.
+- I'm interested in Python, data analysis, trading systems, and basic machine learning.
+- I build small tools for backtesting ideas, automating routine tasks, and checking system behavior.
+- I like debugging with evidence: logs, tests, SQLite records, and simple reports.
+- Some of my work stays private because it includes keys, logs, account data, or rough experiments.
 
-## Чем занимался
+### My skills include
 
-- писал и дорабатывал логику для торгового бота;
-- проверял торговые идеи на исторических данных;
-- работал с логами, SQLite и простыми отчетами;
-- делал небольшие скрипты для автоматизации;
-- разбирался с базовыми задачами машинного обучения;
-- автоматизировал заполнение документов;
-- смотрел диагностику Windows и автозагрузки без удаления всего подряд.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-## Что использую
+### Projects
 
-Python, PowerShell, SQL/SQLite, Git, основы машинного обучения, анализ данных,
-тесты и простую автоматизацию.
-
-## Проекты
-
-- `market-replay-lab` - небольшая демо-лаборатория для проверки торговых
-  сигналов на исторических данных.
-- `docx-template-filler` - скрипт для заполнения Word-шаблонов из JSON.
-- `windows-startup-audit` - безопасная проверка автозагрузки Windows.
-
-Часть проектов оставляю приватными, потому что там есть ключи, логи, личные
-данные и рабочие черновики.
+- `market-replay-lab` - a small candle-by-candle replay lab for checking trading signals on historical data.
+- `docx-template-filler` - a simple script for filling Word templates from JSON.
+- `windows-startup-audit` - a read-only PowerShell script for checking Windows startup items.
