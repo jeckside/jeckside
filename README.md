@@ -1,31 +1,33 @@
-# Hi, I'm Evgeny
+# Привет, я Евгений
 
-I am learning software engineering through practical projects: trading-system
-research, data analysis, automation scripts and small diagnostic tools.
+Учусь программированию и постепенно собираю небольшие проекты на Python,
+PowerShell и SQL.
 
-Most of my work started from real problems I had to solve:
+Мне нравится разбираться в практических задачах: почему код работает не так,
+как ожидалось, где появилась ошибка, что видно по логам и как это можно
+проверить нормальными тестами.
 
-- checking whether a trading signal behaves the same in replay and in live-like
-  conditions;
-- reading logs and finding where a delay or wrong action actually happened;
-- automating document templates instead of filling the same fields by hand;
-- collecting Windows startup diagnostics before changing anything on the
-  system.
+## Чем занимался
 
-## What I work with
+- писал и дорабатывал логику для торгового бота;
+- проверял торговые идеи на исторических данных;
+- работал с логами, SQLite и простыми отчетами;
+- делал небольшие скрипты для автоматизации;
+- разбирался с базовыми задачами машинного обучения;
+- автоматизировал заполнение документов;
+- смотрел диагностику Windows и автозагрузки без удаления всего подряд.
 
-Python, PowerShell, SQL/SQLite, Git, basic ML, data analysis, testing,
-automation, Windows diagnostics.
+## Что использую
 
-I am especially interested in backend/data tasks where it matters that the
-result is reproducible and easy to verify.
+Python, PowerShell, SQL/SQLite, Git, основы машинного обучения, анализ данных,
+тесты и простую автоматизацию.
 
-## Projects
+## Проекты
 
-- `market-replay-lab` - small candle-by-candle replay lab for trading-signal
-  research.
-- `docx-template-filler` - fills Word templates from a JSON mapping.
-- `windows-startup-audit` - read-only startup diagnostics for Windows.
+- `market-replay-lab` - небольшая демо-лаборатория для проверки торговых
+  сигналов на исторических данных.
+- `docx-template-filler` - скрипт для заполнения Word-шаблонов из JSON.
+- `windows-startup-audit` - безопасная проверка автозагрузки Windows.
 
-I keep private keys, logs, account data and full private datasets out of public
-repositories.
+Часть проектов оставляю приватными, потому что там есть ключи, логи, личные
+данные и рабочие черновики.
