@@ -1,5 +1,3 @@
-Конечно. Вот исправленный вариант без старой БД, с PostgreSQL и MongoDB:
-
 ```markdown
 ### Hi there, I'm Eugene
 
