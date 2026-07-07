@@ -1,4 +1,3 @@
-```markdown
 ### Hi there, I'm Eugene
 
 I'm learning software development through small practical projects. I like
@@ -31,4 +30,3 @@ that the result actually makes sense.
 - `market-replay-lab` - a small candle-by-candle replay lab for checking trading signals on historical data.
 - `docx-template-filler` - a simple script for filling Word templates from JSON.
 - `windows-startup-audit` - a read-only PowerShell script for checking Windows startup items.
-```
